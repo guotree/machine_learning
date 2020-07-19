@@ -1,2 +1,2 @@
 # machine_learning
-Coursera
+This repository is my programming task on Coursera
