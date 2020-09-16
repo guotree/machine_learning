@@ -5,4 +5,4 @@ I have uploaded the octave code on this repository, and I will upload the Python
 
 Here is my certificate
 
-![certificate](certificate.png)
+<img src="certificate.png" alt="certificate" style="zoom: 50%;" />
